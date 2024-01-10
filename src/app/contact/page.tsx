@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 const Contact = () => {
   return <div className="text-center text-xl mt-8">Hello world</div>;
